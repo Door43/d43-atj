@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atj:home|Door43 (atj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atj|d43-atj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atj/archive/master.zip|d43-atj.zip]]
+
+**Recent Changes**
+{{changes>ns = atj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atj|Ethnologue data]]
+
